@@ -1042,8 +1042,6 @@ Thematic classification for obects labeling in imagery (all markup classes)
 
 ## Credentials
 
-## Credentials
-
 <table border="0" cellpadding="10px"> <tr> <td><img src="https://aeronetlab.space/img/lab_logo.svg" width="150px"> 
 </td>
 <td><img src="https://aeronetlab.space/img/logo_skoltech.png" width="150px"></td>
