@@ -1,15 +1,24 @@
-"Open Spatial Dataset" is the joint project of Skoltech and University of Innopolis, maintained by [AeronetLab](https://aeronetlab.space/) at Skoltech.
+"Open Spatial Dataset" is the joint project of [Skoltech](https://www.skoltech.ru/en) and [University of Innopolis](https://university.innopolis.ru/en/), maintained by [AeronetLab](https://aeronetlab.space/) at Skoltech.
 The goal of the project is to provide research and developers community with training datasets and benchmarks to develop algorithms for Earth Observation data analysis.
 
-Despite of increasing number of competitions in data science world and some good datasets that'd been provided for the open community (e.g. Spacenet) there is still a lack of geographical diversity and labeling data.
-The main target area of "Open Spatial Dataset" is the Russian territory since there are no good datasets available for. Also it covers some parts of California for the disaster affected areas.
 
-The labeling data is created according to thematic classification of the natural and man-made objects that have a clear interpretation either in satellite or in aerial imagery (see "markup classes").
+Despite of increasing number of competitions in data science and some good datasets that'd been provided for open community (e.g. [Spacenet](https://spacenetchallenge.github.io)) there is still a lack of geographical diversity and number of labeling classes.
+The main target area of "Open Spatial Dataset" is the Russian territory since there are no good datasets available for. 
+Also it covers some parts of California for the disaster affected areas. And more regions to come.
+
+The labeling data is specified according to thematic classification of the natural and man-made objects that have a clear interpretation either in satellite or in aerial imagery (see "markup classes").
+
+![Open spatial dataset - labeling](https://aeronetlab.space/img/osd_houses.png)
 
 
 ## OSD repositories
 
 [Emergency-mapping](https://github.com/aeronetlab/emergency-mapping)
+
+
+## Competitions
+
+More to come...
 
 
 ## Markup classes
@@ -1042,9 +1051,9 @@ Thematic classification for obects labeling in imagery (all markup classes)
 
 ## Credentials
 
-<table border="0" cellpadding="10px"> <tr> <td><img src="https://aeronetlab.space/img/lab_logo.svg" width="150px"> 
+<table border="0" cellpadding="10"> <tr> <td><img src="https://aeronetlab.space/img/lab_logo.svg" width="150"> 
 </td>
-<td><img src="https://aeronetlab.space/img/logo_skoltech.png" width="150px"></td>
-<td><img src="https://aeronetlab.space/img/logo_innopolis.png" width="150px"></td>
+<td><img src="https://aeronetlab.space/img/logo_skoltech.png" width="150"></td>
+<td><img src="https://aeronetlab.space/img/logo_innopolis.png" width="150"></td>
+<td><img src="https://aeronetlab.space/img/logo_dg.png" width="150"></td>
 </tr></table>
-
