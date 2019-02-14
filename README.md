@@ -1,12 +1,7 @@
-"Open Spatial Dataset" is the joint project of [Skoltech](https://www.skoltech.ru/en) and [University of Innopolis](https://university.innopolis.ru/en/), maintained by [AeronetLab](https://aeronetlab.space/) at Skoltech.
-The goal of the project is to provide research and developers community with training datasets and benchmarks to develop algorithms for Earth Observation data analysis.
+"Open Spatial  Dataset" (OSD) is a comprehensive open benchmark for the methods of remote sensing imagery segmentation and classification. It provides a labeled datasets of satellite and aerial images distributed under the Open License within a single framework supported by a data access library. The dataset is to be used as training data for the deep learning algorithms or as a benchmark to measure the efficiency of the models output.
 
-
-Despite of increasing number of competitions in data science and some good datasets that'd been provided for open community (e.g. [Spacenet](https://spacenetchallenge.github.io)) there is still a lack of geographical diversity and number of labeling classes.
-The main target area of "Open Spatial Dataset" is the Russian territory since there are no good datasets available for. 
-Also it covers some parts of California for the disaster affected areas. And more regions to come.
-
-The labeling data is specified according to thematic classification of the natural and man-made objects that have a clear interpretation either in satellite or in aerial imagery (see "markup classes").
+Despite of increasing number of competitions in data science and some good datasets that'd been provided for open community (e.g. [Spacenet](https://spacenetchallenge.github.io)) there is still a lack of geographical diversity and number of training classes.
+The dataset is proposed to be extended to different data sources, territories and classes according to classification of the natural and man-made objects that have a clear interpretation either in satellite or in aerial imagery (see "markup classes").
 
 ![Open spatial dataset - labeling](https://aeronetlab.space/img/osd_houses.png)
 
@@ -1050,6 +1045,8 @@ Thematic classification for obects labeling in imagery (all markup classes)
 
 
 ## Credentials
+"OSD" is the joint project of [Skoltech](https://www.skoltech.ru/en) and [University of Innopolis](https://university.innopolis.ru/en/), maintained by [AeronetLab](https://aeronetlab.space/) at Skoltech.
+The goal of the project is to provide research and developers community with training datasets and benchmarks to develop deep learning algorithms for Earth Observation data analysis.
 
 <table border="0" cellpadding="10"> <tr> <td><img src="https://aeronetlab.space/img/lab_logo.svg" width="150"> 
 </td>
