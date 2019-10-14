@@ -1,19 +1,16 @@
-"Open Spatial  Dataset" (OSD) is a comprehensive open benchmark for the methods of remote sensing imagery segmentation and classification. It provides a labeled datasets of satellite and aerial images distributed under the Open License within a single framework supported by a data access library. The dataset is to be used as training data for the deep learning algorithms or as a benchmark to measure the efficiency of the models output.
+Here is presented the list of open datasets created by [Aeronetlab group at Skoltech](https://aeronetlab.space) for objects recognition in satellite and aerial images. Most of datasets are distributed under the Open License within a single pipeline supported by a data access tools (check for Aeronetlib in our github page). These dataset are to be used as training or validation data for the deep learning algorithms or to measure the efficiency of the models output.
 
-Despite of increasing number of competitions in data science and some good datasets that'd been provided for open community (e.g. [Spacenet](https://spacenetchallenge.github.io)) there is still a lack of geographical diversity and number of training classes.
+Despite of increasing number of competitions in data science and some quite large datasets that'd been provided for the research community (e.g. [Spacenet](https://spacenetchallenge.github.io)) there is still a lack of geographical diversity and number of training classes.
 The dataset is proposed to be extended to different data sources, territories and classes according to classification of the natural and man-made objects that have a clear interpretation either in satellite or in aerial imagery (see "markup classes").
 
 ![Open spatial dataset - labeling](https://aeronetlab.space/img/osd_houses.png)
 
 
-## OSD repositories
+## Datasets
 
 [Emergency-mapping](https://github.com/aeronetlab/emergency-mapping)
 
-
-## Competitions
-
-More to come...
+"Emergenсy mapping" is a deeplearning method to detect damaged buildings in remote sensing imagery. Automatic mapping and detection is needed to reduce the time for decision making and response.
 
 
 ## Markup classes
