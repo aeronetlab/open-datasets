@@ -1,7 +1,7 @@
-Here is presented the list of open datasets created by [Aeronetlab group at Skoltech](https://aeronetlab.space) for objects recognition in satellite and aerial images. Most of datasets are distributed under the Open License within a single pipeline supported by a data access tools (check for Aeronetlib in our github page). These dataset are to be used as training or validation data for the deep learning algorithms or to measure the efficiency of the models output.
+Here is presented the list of open datasets created by [Aeronetlab group at Skoltech](https://aeronetlab.space) for objects recognition in satellite and aerial images. Most of datasets are distributed under the Open License within a single pipeline supported by a data access tools (check for Aeronetlib in our github page). These experimental datasets are to be used in training or validation of the deep learning algorithms.
 
-Despite of increasing number of competitions in data science and some quite large datasets that'd been provided for the research community (e.g. [Spacenet](https://spacenetchallenge.github.io)) there is still a lack of geographical diversity and number of training classes.
-The dataset is proposed to be extended to different data sources, territories and classes according to classification of the natural and man-made objects that have a clear interpretation either in satellite or in aerial imagery (see "markup classes").
+Despite of increasing number of datasets and competitions in remote sensing data science and some large datasets that'd been provided to the research community (e.g. [Spacenet](https://spacenetchallenge.github.io)) there is still a lack of geographical diversity and the number of training classes.
+The dataset is proposed to be extended to different data sources, territories and application domains in accordance with classification of the natural and man-made objects that have a clear interpretation either in satellite or in aerial imagery (see "markup classes").
 
 ![Open spatial dataset - labeling](https://aeronetlab.space/img/osd_houses.png)
 
@@ -15,7 +15,7 @@ The dataset is proposed to be extended to different data sources, territories an
 
 ## Markup classes
 
-Thematic classification for obects labeling in imagery (all markup classes)
+Classification for obects labeling in imagery (all classes)
 
 <table>
   <tr>
