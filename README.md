@@ -1042,7 +1042,7 @@ Classification for obects labeling in imagery (all classes)
 
 
 ## Credentials
-"OSD" is the joint project of [Skoltech](https://www.skoltech.ru/en) and [University of Innopolis](https://university.innopolis.ru/en/), maintained by [AeronetLab](https://aeronetlab.space/) at Skoltech.
+"Open datasets" is the joint project of [Skoltech](https://www.skoltech.ru/en) and [University of Innopolis](https://university.innopolis.ru/en/), maintained by [AeronetLab](https://aeronetlab.space/) at Skoltech.
 The goal of the project is to provide research and developers community with training datasets and benchmarks to develop deep learning algorithms for Earth Observation data analysis.
 
 <table border="0" cellpadding="10"> <tr> <td><img src="https://aeronetlab.space/img/lab_logo.svg" width="150"> 
