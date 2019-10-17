@@ -8,9 +8,12 @@ The dataset is proposed to be extended to different data sources, territories an
 
 ## Datasets
 
-[Emergency-mapping](https://github.com/aeronetlab/emergency-mapping)
+| Project name |  Number of datasets | Description | Size | Dwonload link |
+| --------------- |  -------------- | -------------- | ------------- | -------------- |
+| **"Emergenсy mapping"** | 2 | Emergency Mapping is a deeplearning method to detect destroyed (damaged) buildings in remote sensing imagery | 235 Mb + 5.2 Gb | [Download](https://minio.aeronetlab.space/public/datasets/emergency/California_2017.zip) |
+|**"Building heights"** | 1 | For validation of buldings heights using the method for heights reconstruction in single image by the known sun and satellite angles| 1.2 Gb | [Download](https://minio.aeronetlab.space/public/datasets/emergency/Florida_2018.zip) |
 
-"Emergenсy mapping" is a deeplearning method to detect damaged buildings in remote sensing imagery. Automatic mapping and detection is needed to reduce the time for decision making and response.
+
 
 
 ## Markup classes
